@@ -35,11 +35,9 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grequee/grequee/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/grequee/grequee/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/grequee/grequee/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="190" />
+  <img src="https://raw.githubusercontent.com/grequee/grequee/main/profile-summary-card-output/tokyonight/3-stats.svg" height="190" />
 </p>
-
----
 
 ## 🤝 Vamos conversar?
 
