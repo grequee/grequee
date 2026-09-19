@@ -35,8 +35,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grequee&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grequee&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://raw.githubusercontent.com/grequee/grequee/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/grequee/grequee/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
 </p>
 
 ---
